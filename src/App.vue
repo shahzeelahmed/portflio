@@ -191,32 +191,3 @@ window.addEventListener('resize', resize);
 
 </template>
 
-<!-- <style>
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
- 
-  
-}
-html,
-  body{
-    background: #300143;
-    overscroll-behavior: none;
-    font-family: "Inter";
-
-  }
-  .header{
-
-  }
-</style> -->
-<!-- <style>
-#gradient-canvas {
-  width:100%;
-  height:100%;
-  --gradient-color-1: #53DF83; 
-  --gradient-color-2: #47D2E9; 
-  --gradient-color-3: #3F3F3F;  
-  --gradient-color-4: #EEEEEE;
-}
-</style> -->
